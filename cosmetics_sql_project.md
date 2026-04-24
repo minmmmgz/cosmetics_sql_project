@@ -1,5 +1,3 @@
-# cosmetics_sql_project
-
 # SQL 기반 이커머스 데이터 정제 및 표준화 프로젝트
 
 ## 프로젝트 개요
